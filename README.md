@@ -1,2 +1,0 @@
-# anaplam
-# anaplam
