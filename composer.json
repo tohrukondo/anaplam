@@ -1,0 +1,16 @@
+{
+    "require": {
+        "slim/slim": "3.*",
+        "maclof/kubernetes-client": "0.4.2",
+        "ramsey/uuid": "^3.4",
+        "vlucas/phpdotenv": "2.4.0"
+    },
+    "autoload" : {
+        "psr-4": {
+            "Anaplam\\" : "class/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
